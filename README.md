@@ -10,7 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsobhytor&show_icons=true&locale=en&layout=compact" alt="ahmedsobhytor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsobhytor&show_icons=true&locale=en" alt="ahmedsobhytor" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsobhytor&" alt="ahmedsobhytor" /></p>
 
