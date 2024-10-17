@@ -22,7 +22,7 @@
 
 <h3 align="left">Reach me at :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-sobhy-8b51811b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-sobhy-8b51811b3" height="35" /></a>
+<a href="https://linkedin.com/in/ahmed-sobhy-8b51811b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-sobhy-8b51811b3" height="40" /></a>
     <a href="mailto:devahmedsobhy@gmail.com">
   <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>   
