@@ -27,9 +27,9 @@
 <a href="https://linkedin.com/in/ahmed-sobhy-8b51811b3" target="blank">
       <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-    <a href="mailto:devahmedsobhy@gmail.com">
+<!--     <a href="mailto:devahmedsobhy@gmail.com">
   <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>   
+</a>    -->
 </p>
 
 
